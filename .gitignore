@@ -1,0 +1,27 @@
+# --- Archivos de Resultados y Logs (Privacidad) ---
+*.txt
+*.log
+
+# --- Java & Maven ---
+target/
+*.class
+.mvn/
+mvnw
+mvnw.cmd
+
+# --- IntelliJ IDEA ---
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# --- Otros IDEs (Eclipse, VS Code) ---
+.classpath
+.project
+.settings/
+.vscode/
+
+# --- Sistema Operativo ---
+.DS_Store
+Thumbs.db
